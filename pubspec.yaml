@@ -1,11 +1,11 @@
 name: flutter_radio_button_group
 description: Radio Buttons for people how like to change the Design for their own needs
-version: 0.0.2+3
+version: 0.0.3+4
 author: Edin Spiegel <apps4trainers@gmail.com>
 homepage: https://github.com/edin45/flutter_radio_button_group
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
+  sdk: ">=2.12.0 <4.0.0"
 
 dependencies:
   flutter:

@@ -128,7 +128,6 @@ class _FlutterRadioButtonGroupState extends State<FlutterRadioButtonGroup> {
 
   @override
   void initState() {
-    // TODO: implement initState
     super.initState();
     this.checked = initialSelection ?? 0;
   }
