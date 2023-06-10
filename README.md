@@ -6,7 +6,7 @@ Radio Buttons for people how like to change the Design for their own needs.
 
 ### Example:
 
-![radio button example image](https://cdn1.imggmi.com/uploads/2019/10/6/4cc62eb958077af9134c080228b580f9-full.png)
+![radio button example image](https://github.com/edin45/flutter_radio_button_group/blob/master/images/example_image.png?raw=true)
 
 ### Importing:  
 
